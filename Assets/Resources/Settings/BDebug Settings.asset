@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88c13cef16acf8479e48bf91b7b801d, type: 3}
+  m_Name: BDebug Settings
+  m_EditorClassIdentifier: 
+  debugMeshMaterial: {fileID: 0}
+  debugMeshTransparentMaterial: {fileID: 0}
+  debugMeshWireframeMaterial: {fileID: 0}
+  debugLineMaterial: {fileID: 0}
+  defaultTextMeshMaterial: {fileID: 0}
+  overlayTextMeshMaterial: {fileID: 0}
+  maxDebugTextsOnScreen: 50
+  orientTextMode: 0
+  drawingLayers: 010101010101010101010101010101010101010101010101
